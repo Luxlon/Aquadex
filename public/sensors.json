@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "created_at": "2025-09-18T08:30:00.000Z",
+    "kekeruhan": 1200,
+    "phmeter": 7.2,
+    "temp": 26.4,
+    "waterflow": 3.2
+  },
+  {
+    "id": 2,
+    "created_at": "2025-09-18T08:25:00.000Z",
+    "kekeruhan": 900,
+    "phmeter": 6.8,
+    "temp": 26.1,
+    "waterflow": 2.9
+  },
+  {
+    "id": 3,
+    "created_at": "2025-09-18T08:20:00.000Z",
+    "kekeruhan": 1500,
+    "phmeter": 7.5,
+    "temp": 26.7,
+    "waterflow": 3.6
+  },
+  {
+    "id": 4,
+    "created_at": "2025-09-18T08:15:00.000Z",
+    "kekeruhan": 400,
+    "phmeter": 6.4,
+    "temp": 25.8,
+    "waterflow": 1.8
+  },
+  {
+    "id": 5,
+    "created_at": "2025-09-18T08:10:00.000Z",
+    "kekeruhan": 2200,
+    "phmeter": 8.0,
+    "temp": 27.0,
+    "waterflow": 4.2
+  },
+  {
+    "id": 6,
+    "created_at": "2025-09-18T08:05:00.000Z",
+    "kekeruhan": 80,
+    "phmeter": 7.1,
+    "temp": 24.5,
+    "waterflow": 2.8
+  },
+  {
+    "id": 7,
+    "created_at": "2025-09-18T08:00:00.000Z",
+    "kekeruhan": 150,
+    "phmeter": 6.9,
+    "temp": 25.2,
+    "waterflow": 3.1
+  },
+  {
+    "id": 8,
+    "created_at": "2025-09-18T07:55:00.000Z",
+    "kekeruhan": 600,
+    "phmeter": 7.8,
+    "temp": 26.8,
+    "waterflow": 2.5
+  },
+  {
+    "id": 9,
+    "created_at": "2025-09-18T07:50:00.000Z",
+    "kekeruhan": 320,
+    "phmeter": 7.4,
+    "temp": 25.9,
+    "waterflow": 3.8
+  },
+  {
+    "id": 10,
+    "created_at": "2025-09-18T07:45:00.000Z",
+    "kekeruhan": 1800,
+    "phmeter": 5.8,
+    "temp": 28.2,
+    "waterflow": 1.2
+  },
+  {
+    "id": 11,
+    "created_at": "2025-09-17T23:30:00.000Z",
+    "kekeruhan": 95,
+    "phmeter": 7.3,
+    "temp": 23.8,
+    "waterflow": 2.9
+  },
+  {
+    "id": 12,
+    "created_at": "2025-09-17T23:25:00.000Z",
+    "kekeruhan": 450,
+    "phmeter": 6.7,
+    "temp": 24.1,
+    "waterflow": 3.4
+  },
+  {
+    "id": 13,
+    "created_at": "2025-09-17T23:20:00.000Z",
+    "kekeruhan": 2800,
+    "phmeter": 9.2,
+    "temp": 31.5,
+    "waterflow": 0.8
+  },
+  {
+    "id": 14,
+    "created_at": "2025-09-17T23:15:00.000Z",
+    "kekeruhan": 75,
+    "phmeter": 7.0,
+    "temp": 22.5,
+    "waterflow": 4.1
+  },
+  {
+    "id": 15,
+    "created_at": "2025-09-17T23:10:00.000Z",
+    "kekeruhan": 680,
+    "phmeter": 6.5,
+    "temp": 26.3,
+    "waterflow": 2.7
+  },
+  {
+    "id": 16,
+    "created_at": "2025-09-17T23:05:00.000Z",
+    "kekeruhan": 120,
+    "phmeter": 8.1,
+    "temp": 25.7,
+    "waterflow": 3.6
+  },
+  {
+    "id": 17,
+    "created_at": "2025-09-17T23:00:00.000Z",
+    "kekeruhan": 1950,
+    "phmeter": 5.2,
+    "temp": 33.8,
+    "waterflow": 6.2
+  },
+  {
+    "id": 18,
+    "created_at": "2025-09-17T22:55:00.000Z",
+    "kekeruhan": 85,
+    "phmeter": 7.6,
+    "temp": 24.9,
+    "waterflow": 2.8
+  },
+  {
+    "id": 19,
+    "created_at": "2025-09-17T22:50:00.000Z",
+    "kekeruhan": 340,
+    "phmeter": 7.2,
+    "temp": 26.1,
+    "waterflow": 3.9
+  },
+  {
+    "id": 20,
+    "created_at": "2025-09-17T22:45:00.000Z",
+    "kekeruhan": 1650,
+    "phmeter": 6.1,
+    "temp": 29.4,
+    "waterflow": 1.5
+  },
+  {
+    "id": 21,
+    "created_at": "2025-09-16T15:30:00.000Z",
+    "kekeruhan": 55,
+    "phmeter": 7.8,
+    "temp": 23.2,
+    "waterflow": 4.5
+  },
+  {
+    "id": 22,
+    "created_at": "2025-09-16T15:25:00.000Z",
+    "kekeruhan": 890,
+    "phmeter": 6.9,
+    "temp": 27.8,
+    "waterflow": 2.1
+  },
+  {
+    "id": 23,
+    "created_at": "2025-09-16T15:20:00.000Z",
+    "kekeruhan": 220,
+    "phmeter": 8.3,
+    "temp": 25.4,
+    "waterflow": 3.2
+  },
+  {
+    "id": 24,
+    "created_at": "2025-09-16T15:15:00.000Z",
+    "kekeruhan": 3200,
+    "phmeter": 4.8,
+    "temp": 35.1,
+    "waterflow": 7.8
+  },
+  {
+    "id": 25,
+    "created_at": "2025-09-16T15:10:00.000Z",
+    "kekeruhan": 65,
+    "phmeter": 7.4,
+    "temp": 22.8,
+    "waterflow": 2.9
+  },
+  {
+    "id": 26,
+    "created_at": "2025-09-16T15:05:00.000Z",
+    "kekeruhan": 750,
+    "phmeter": 6.6,
+    "temp": 28.5,
+    "waterflow": 1.9
+  },
+  {
+    "id": 27,
+    "created_at": "2025-09-16T15:00:00.000Z",
+    "kekeruhan": 145,
+    "phmeter": 7.9,
+    "temp": 24.7,
+    "waterflow": 4.2
+  },
+  {
+    "id": 28,
+    "created_at": "2025-09-16T14:55:00.000Z",
+    "kekeruhan": 2100,
+    "phmeter": 5.5,
+    "temp": 32.3,
+    "waterflow": 0.9
+  },
+  {
+    "id": 29,
+    "created_at": "2025-09-16T14:50:00.000Z",
+    "kekeruhan": 98,
+    "phmeter": 8.0,
+    "temp": 25.1,
+    "waterflow": 3.7
+  },
+  {
+    "id": 30,
+    "created_at": "2025-09-16T14:45:00.000Z",
+    "kekeruhan": 480,
+    "phmeter": 7.1,
+    "temp": 26.9,
+    "waterflow": 2.6
+  },
+  {
+    "id": 31,
+    "created_at": "2025-09-15T10:30:00.000Z",
+    "kekeruhan": 90,
+    "phmeter": 7.5,
+    "temp": 23.5,
+    "waterflow": 3.8
+  },
+  {
+    "id": 32,
+    "created_at": "2025-09-15T10:25:00.000Z",
+    "kekeruhan": 1350,
+    "phmeter": 6.3,
+    "temp": 30.2,
+    "waterflow": 1.4
+  },
+  {
+    "id": 33,
+    "created_at": "2025-09-15T10:20:00.000Z",
+    "kekeruhan": 180,
+    "phmeter": 8.2,
+    "temp": 24.3,
+    "waterflow": 4.6
+  },
+  {
+    "id": 34,
+    "created_at": "2025-09-15T10:15:00.000Z",
+    "kekeruhan": 2950,
+    "phmeter": 4.5,
+    "temp": 37.8,
+    "waterflow": 8.1
+  },
+  {
+    "id": 35,
+    "created_at": "2025-09-15T10:10:00.000Z",
+    "kekeruhan": 78,
+    "phmeter": 7.7,
+    "temp": 22.1,
+    "waterflow": 3.3
+  },
+  {
+    "id": 36,
+    "created_at": "2025-09-15T10:05:00.000Z",
+    "kekeruhan": 620,
+    "phmeter": 6.8,
+    "temp": 27.4,
+    "waterflow": 2.2
+  },
+  {
+    "id": 37,
+    "created_at": "2025-09-15T10:00:00.000Z",
+    "kekeruhan": 105,
+    "phmeter": 7.9,
+    "temp": 25.8,
+    "waterflow": 4.1
+  },
+  {
+    "id": 38,
+    "created_at": "2025-09-15T09:55:00.000Z",
+    "kekeruhan": 1780,
+    "phmeter": 5.9,
+    "temp": 33.1,
+    "waterflow": 1.1
+  },
+  {
+    "id": 39,
+    "created_at": "2025-09-15T09:50:00.000Z",
+    "kekeruhan": 85,
+    "phmeter": 8.4,
+    "temp": 23.9,
+    "waterflow": 3.5
+  },
+  {
+    "id": 40,
+    "created_at": "2025-09-15T09:45:00.000Z",
+    "kekeruhan": 420,
+    "phmeter": 7.0,
+    "temp": 26.5,
+    "waterflow": 2.8
+  },
+  {
+    "id": 41,
+    "created_at": "2025-09-14T16:30:00.000Z",
+    "kekeruhan": 70,
+    "phmeter": 7.6,
+    "temp": 24.1,
+    "waterflow": 4.3
+  },
+  {
+    "id": 42,
+    "created_at": "2025-09-14T16:25:00.000Z",
+    "kekeruhan": 1150,
+    "phmeter": 6.2,
+    "temp": 29.7,
+    "waterflow": 1.6
+  },
+  {
+    "id": 43,
+    "created_at": "2025-09-14T16:20:00.000Z",
+    "kekeruhan": 240,
+    "phmeter": 8.1,
+    "temp": 25.6,
+    "waterflow": 3.9
+  },
+  {
+    "id": 44,
+    "created_at": "2025-09-14T16:15:00.000Z",
+    "kekeruhan": 3500,
+    "phmeter": 10.2,
+    "temp": 39.5,
+    "waterflow": 9.1
+  },
+  {
+    "id": 45,
+    "created_at": "2025-09-14T16:10:00.000Z",
+    "kekeruhan": 92,
+    "phmeter": 7.3,
+    "temp": 23.7,
+    "waterflow": 2.9
+  },
+  {
+    "id": 46,
+    "created_at": "2025-09-14T16:05:00.000Z",
+    "kekeruhan": 580,
+    "phmeter": 6.7,
+    "temp": 28.1,
+    "waterflow": 2.4
+  },
+  {
+    "id": 47,
+    "created_at": "2025-09-14T16:00:00.000Z",
+    "kekeruhan": 125,
+    "phmeter": 7.8,
+    "temp": 24.8,
+    "waterflow": 4.0
+  },
+  {
+    "id": 48,
+    "created_at": "2025-09-14T15:55:00.000Z",
+    "kekeruhan": 1920,
+    "phmeter": 5.4,
+    "temp": 34.2,
+    "waterflow": 0.7
+  },
+  {
+    "id": 49,
+    "created_at": "2025-09-14T15:50:00.000Z",
+    "kekeruhan": 88,
+    "phmeter": 8.5,
+    "temp": 22.4,
+    "waterflow": 3.6
+  },
+  {
+    "id": 50,
+    "created_at": "2025-09-14T15:45:00.000Z",
+    "kekeruhan": 365,
+    "phmeter": 7.2,
+    "temp": 27.3,
+    "waterflow": 2.7
+  }
+]

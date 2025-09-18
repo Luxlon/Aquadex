@@ -19,7 +19,9 @@ const SensorTable = () => {
   useEffect(() => {
     const fetchData = async () => {
       const { data: sensors, error } = await supabase
-        .from('sensor')
+
+      // ubah di bagian sini untuk pake data dari supabase lagi
+        .from('/sensor.json') 
         .select('id, created_at, kekeruhan, phmeter, waterflow, temp');
 
       if (error) {
