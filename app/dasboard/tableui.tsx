@@ -291,9 +291,9 @@ export default function TableUI() {
         aria-label="Water Quality Sensor Data Table"
         classNames={{
           wrapper: "bg-transparent",
-          table: "bg-slate-800/50",
+          table: "bg-slate-800/50 rounded-lg border-slate-700",
           th: "bg-slate-700 text-slate-300 font-semibold",
-          td: "border-b border-slate-700"
+          td: "border-b border-x border-slate-700"
         }}
       >
         <TableHeader columns={columns}>
@@ -321,9 +321,9 @@ export default function TableUI() {
             onChange={setCurrentPage}
             showControls
             classNames={{
-              wrapper: "gap-0 overflow-visible h-8 rounded border border-divider",
+              wrapper: "gap-0 overflow-visible h-8 rounded",
               item: "w-8 h-8 text-small rounded-none bg-transparent",
-              cursor: "bg-gradient-to-b shadow-lg from-default-500 to-default-800 dark:from-default-300 dark:to-default-100 text-white font-bold",
+              cursor: "bg-slate-600 shadow-lg from-default-500 to-default-800 dark:from-default-300 dark:to-default-100 text-white font-bold",
             }}
           />
         </div>
