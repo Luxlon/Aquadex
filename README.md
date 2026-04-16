@@ -50,7 +50,7 @@ Sistem ini mengintegrasikan perangkat keras berupa **sensor IoT** yang terhubung
 
 ```
 ┌─────────────────┐       ┌──────────────┐       ┌──────────────────┐
-│  Hardware Layer  │──────▶│  Cloud / API │──────▶│  Web Dashboard   │
+│ Hardware Layer  │──────▶│ Cloud / API  │─────▶│Web Dashboard     │
 │                 │       │              │       │                  │
 │  Sensor IoT     │       │  Data Broker │       │  Next.js App     │
 │  (C++ / Arduino)│       │  (Realtime)  │       │  (aquadex.vercel)│
